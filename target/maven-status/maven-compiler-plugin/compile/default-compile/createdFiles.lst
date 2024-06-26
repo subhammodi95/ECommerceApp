@@ -1,0 +1,16 @@
+com\mycompany\ecommerceapp\servlets\LoginServlet.class
+com\mycompany\ecommerceapp\entities\Orders.class
+com\mycompany\ecommerceapp\servlets\LogoutServlet.class
+com\mycompany\ecommerceapp\dao\ProductDao.class
+com\mycompany\ecommerceapp\helper\FactoryProvider.class
+com\mycompany\ecommerceapp\dao\UserDao.class
+com\mycompany\ecommerceapp\servlets\ProductOperationServlet.class
+com\mycompany\ecommerceapp\dao\OrdersDao.class
+com\mycompany\ecommerceapp\servlets\OrdersServlet.class
+com\mycompany\ecommerceapp\entities\Product.class
+com\mycompany\ecommerceapp\entities\User.class
+com\mycompany\ecommerceapp\dao\CategoryDao.class
+com\mycompany\ecommerceapp\entities\Category.class
+com\mycompany\ecommerceapp\servlets\RegisterServlet.class
+com\mycompany\ecommerceapp\dao\Categories.class
+com\mycompany\ecommerceapp\helper\Helper.class
